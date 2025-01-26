@@ -1,15 +1,21 @@
-# SIFAD: Scale-Invariant Features Adversarial Disentanglement for UAV Object Detection
 
-### Introduction
 
-Welcome to the official repository of our paper "Scale-Invariant Features Adversarial Disentanglement for UAV Object Detection"!
+<div align="center">
 
-In this paper, we propose enhancing the UAV-OD accuracy via Scale-Invariant Features Adversarial Disentanglement. 
-Firstly, we designed a Scale-Invariant Features Disentanglement module through Adversarial Learning (SIFAD). 
-Then we construct a multi-scene and multi-modal UAV-OD dataset. 
-Experimental results demonstrated the superiority of our approach. This is just our preliminary exploration of disentangling scale-invariant features. More subtle and effective designs can be considered, leaving enough space for further development. 
-Moreover, it is worth mentioning that we are committed to further enhancing the scope and scale of State-Air, expanding both the coverage and depth of our data.
+## Boost UAV-based Ojbect Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning
 
-![](assets/overview.png)
+[Fan Liu (刘凡)](https://multimodality.group/author/%E5%88%98%E5%87%A1/) ✉ 
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
+[Liang Yao (姚亮)](https://multimodality.group/author/%E5%A7%9A%E4%BA%AE/) 
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+[Chuanyi Zhang (张传一)](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm) ✉ 
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
 
-In this repository, we will provide our code (SIFAD) and Dataset (State-Air).
+[Zhiquan Ou (欧志权)](https://multimodality.group/author/%E6%AC%A7%E5%BF%97%E6%9D%83/) 
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+[Ting Wu (吴婷)](https://multimodality.group/author/%E5%90%B4%E5%A9%B7/) 
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+
+</div>
+
+![image](https://github.com/user-attachments/assets/40772e6b-bcc7-452f-8972-ced9eac93318)
