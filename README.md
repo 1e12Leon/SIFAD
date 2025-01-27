@@ -13,6 +13,7 @@
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
 [Ting Wu (吴婷)](https://multimodality.group/author/%E5%90%B4%E5%A9%B7/) 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+
 [Xinlei Zhang (张新蕾)](https://multimodality.group/author/%E5%BC%A0%E6%96%B0%E8%95%BE/) 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
 [Xiruo Jiang (姜希若)](http://www.milab-nust.com/web/graduatesshow.html?id=65) 
